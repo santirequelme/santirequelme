@@ -11,8 +11,8 @@ teamwork is assured progress. Creativity and orientation to solve problems. Good
 <img src="https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python"/>
 DJANGO
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass"/>
+[<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>]
+[<img src="https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass"/>]
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite"/>
 <img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma"/>
