@@ -3,13 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/santiago-requelme/)
 
-<p>
-    #
-    <small>
-      [  On my way to becoming a Full Stack Developer, I like challenges and I'm interested in technologies and frameworks that can help people and companies to improve their growth and development processes. 
-      Excellent communication and interpersonal skills, great capacity for fast and proactive learning, teamwork is assured progress. Creativity and orientation to solve problems. Good sense of humor. Attention to details. ]
-    </small>
-  </p>
+On my way to becoming a Full Stack Developer, I like challenges and I'm interested in technologies and frameworks that can help people and companies to improve their growth and development processes. Excellent communication and interpersonal skills, great capacity for fast and proactive learning,
+teamwork is assured progress. Creativity and orientation to solve problems. Good sense of humor. Attention to details. ]
 
 ## Languages and Technologies knowledge
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
