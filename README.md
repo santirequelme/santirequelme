@@ -14,8 +14,8 @@ teamwork is assured progress. Creativity and orientation to solve problems. Good
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite"/>
 <img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>]
-
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+<img srt="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 **Learning and interested on**
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
