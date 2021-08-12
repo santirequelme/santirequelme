@@ -19,4 +19,4 @@ teamwork is assured progress. Creativity and orientation to solve problems. Good
 **Learning and interested on**
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+
