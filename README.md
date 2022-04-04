@@ -5,8 +5,12 @@
 
 Passionate about innovation and technologies, enthusiastic and creative.
 
-I am a Front-end developer building websites and web applications. I have knowledge in OOP (Object Oriented Programming) HTML, CSS&SASS, Javascript & Vue. Basics of ReactJS and NodeJS
-Excellent communication and interpersonal skills, great capacity for fast and proactive learning, teamwork is assured progress.
+👨🏾‍💻 Hi, here's Santi 🇦🇷 Passionate about innovation and technologies, easy-going person, enthusiastic and creative.
+
+I have experience efficiently coding websites and applications using modern HTML, CSS, JavaScript. Basics of Vue and React JS. 
+Building easy-to-use, user-friendly websites, and applications is truly a passion of mine, TEAMWORK is assured progress.
+ I actively seek out new technologies and stay up-to-date on industry trends and advancements. 
+Excellent communication and interpersonal skills, great capacity for fast and proactive learning, 
 Creativity and orientation to solve problems. Good sense of humor. Attention to detail.
 
 ## Languages and Technologies knowledge
