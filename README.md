@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=red&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/santiago-requelme/)
 
-Passionate about innovation and technologies, enthusiastic and creative.
 
 👨🏾‍💻 Hi, here's Santi 🇦🇷 Passionate about innovation and technologies, easy-going person, enthusiastic and creative.
 
